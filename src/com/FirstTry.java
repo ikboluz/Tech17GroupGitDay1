@@ -19,7 +19,7 @@ public class FirstTry {
 		
 		System.out.print("Im late");
 		 System.out.println("wwwwwwww");
-		 System.out.println("Ahmad");
+		 System.out.println("Ahmad ");
 		 
 		 
 
