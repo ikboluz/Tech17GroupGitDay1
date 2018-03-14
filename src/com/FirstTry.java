@@ -11,7 +11,7 @@ public class FirstTry {
 		
 		System.out.println(")))))))");
 
-		System.out.println("github pratice");
+		System.out.println("github prctice");
 		
 		System.out.println("Hey Ikbol");
 
