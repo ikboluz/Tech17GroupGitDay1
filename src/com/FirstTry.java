@@ -14,11 +14,9 @@ public class FirstTry {
 		
 		System.out.println("Hey Ikbol");
 		
-
-		System.out.println("what up Husna");
-
 		System.out.println("trying stashes");
-
+		
+		System.out.print("Im late");
 
 
 	}
