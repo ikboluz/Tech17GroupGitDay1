@@ -11,11 +11,10 @@ public class FirstTry {
 		
 		System.out.println(")))))))");
 
-		System.out.println("github practice!!!!!!!!!");
-		
-		System.out.println("1234");
 		
 		System.out.println("Hey Ikbol");
+		
+		System.out.println("trying stashes");
 
 
 	}
