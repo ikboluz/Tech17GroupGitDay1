@@ -16,9 +16,10 @@ public class FirstTry {
 		
 		System.out.println("trying stashes");
 		
-		System.out.print("Im late")		 System.out.println("wwwwwwwwwwwwww");
-;
+		System.out.print("Im late");
+		 System.out.println("wwwwwwww");
 		 System.out.println("Ahmad");
+		 System.out.println("Hi Ahmad");
 		 
 		 
 
