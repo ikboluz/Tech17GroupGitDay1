@@ -6,7 +6,7 @@ public class FirstTry {
 
 		System.out.println("Group practice ");
 
-
+		System.out.println("what time is the meeting?");
 		System.out.println("Group work");
 
 		
