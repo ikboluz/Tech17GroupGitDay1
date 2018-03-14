@@ -11,14 +11,13 @@ public class FirstTry {
 		
 		System.out.println(")))))))");
 
-	
 		
 		System.out.println("Hey Ikbol");
 		
 		System.out.println("trying stashes");
 		
-		System.out.print("Im late");
-		 System.out.println("wwwwwwww");
+		System.out.print("Im late")		 System.out.println("wwwwwwwwwwwwww");
+;
 		 System.out.println("Ahmad");
 		 
 		 
