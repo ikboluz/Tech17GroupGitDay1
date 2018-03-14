@@ -11,6 +11,7 @@ public class FirstTry {
 		
 		System.out.println(")))))))");
 
+	
 		
 		System.out.println("Hey Ikbol");
 		
@@ -18,6 +19,9 @@ public class FirstTry {
 		
 		System.out.print("Im late");
 		 System.out.println("wwwwwwww");
+		 System.out.println("Ahmad");
+		 
+		 
 
 
 	}
