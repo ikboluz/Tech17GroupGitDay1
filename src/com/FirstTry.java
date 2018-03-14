@@ -8,9 +8,9 @@ public class FirstTry {
 
 		System.out.println("what time is the meeting?");
 		
-
-		System.out.println("we need to work on project!");
 		
+		System.out.println(")))))))");
+
 		System.out.println("github pratice");
 		
 		System.out.println("Hey Ikbol");
