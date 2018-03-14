@@ -11,6 +11,7 @@ public class FirstTry {
 
 		System.out.println("we need to work on project!");
 		
+		System.out.println("github pratice");
 		
 		System.out.println("Hey Ikbol");
 
